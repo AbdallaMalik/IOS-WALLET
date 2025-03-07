@@ -1,0 +1,1 @@
+ /Users/mohamedahmed/StudioProjects/IOS-WALLET/ATWALLET/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/mohamedahmed/StudioProjects/IOS-WALLET/ATWALLET/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/mohamedahmed/StudioProjects/IOS-WALLET/ATWALLET/l10n.yaml /Users/mohamedahmed/StudioProjects/IOS-WALLET/ATWALLET/lib/l10n/app_en.arb

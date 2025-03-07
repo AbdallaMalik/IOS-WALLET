@@ -1,0 +1,1 @@
+ /Users/mohamedahmed/StudioProjects/IOS-WALLET/ATWALLET/.dart_tool/flutter_build/74e6bc000a4b57aabe610957901085f0/native_assets.yaml: 
